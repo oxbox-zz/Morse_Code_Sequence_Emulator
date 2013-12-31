@@ -11,3 +11,5 @@ bin/*
 *.exe
 lib
 /backup
+*.o
+*.ppu
